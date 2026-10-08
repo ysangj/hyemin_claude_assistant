@@ -51,7 +51,9 @@
       "WebFetch(domain:flag.dol.gov)",
       "WebFetch(domain:boards.greenhouse.io)",
       "WebFetch(domain:job-boards.greenhouse.io)",
-      "WebFetch(domain:jobs.lever.co)"
+      "WebFetch(domain:jobs.lever.co)",
+      "Bash(./update.sh)",
+      "Bash(bash update.sh)"
     ]
   },
   "model": "claude-fable-5-1"
